@@ -16,7 +16,7 @@ function Navbar() {
     <a href="http://localhost:5173" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
         Home
       </a>
-      <a href="http://localhost:5173/booking" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+      <a href="https://first-react-project-copy.vercel.app/booking" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
         Booking
       </a>
       <a href="http://localhost:5173/Classes" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
